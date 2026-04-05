@@ -4,11 +4,13 @@
     "author": "EndLevelGMD",
     "creators": ["EndLevelGMD"],
     "verifier": "DizzyXYZ",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "verification": "https://youtu.be/V93phIdbVbs?si=8X8PGYQhGh0k_Hd_",
     "percentToQualify": 44,
     "password": "Free to Copy",
     "records": [
+        {
         "user": "EndGameGD",
         "percent": 500
+        }
     ]
 }
