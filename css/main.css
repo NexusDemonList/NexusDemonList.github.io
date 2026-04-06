@@ -94,3 +94,28 @@ input[type="checkbox"] {
     cursor: pointer;
     margin: 0;
 }
+
+.callout {
+  background-color: #4EC27B;
+  color: white;
+  padding: 16px 20px;
+  border-radius: 10px;
+  font: inherent;
+  font-size: 18px;
+  font-weight: 500;
+}
+/* DARK MODE VERSION */
+.dark .callout {
+  background-color: #31874E; /* darker pastel green */
+}
+.callout a {
+  color: white;
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+
+  .callout a {
+    color: #ffffff;
+  }
+}
