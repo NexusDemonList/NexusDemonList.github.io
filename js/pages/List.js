@@ -89,6 +89,14 @@ export default {
                         <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
                     </div>
                     <template v-if="editors">
+                        <div class="callout">
+                            <p class="type-label-md">
+                                If you're interested in playing legitimately verified challenges by us, check out the
+                                <a href="https://nexuschallengelist.github.io/#/" target="_blank">
+                                Nexus Challenge List (NCL)
+                                </a>
+                            </p>
+                        </div>
                         <h3>List Editors</h3>
                         <ol class="editors">
                             <li v-for="editor in editors">
